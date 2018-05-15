@@ -7,5 +7,3 @@ motivation- I was writing some asm code and thought I would really like multi-li
 I would really appreciate testing and bug reports (if I could find how it works here...)
 
 compiled with gcc version 5.4.0 20160609 with default settings
-
-the provided "exe" file is a precompiled version for 64-bit linux (works on my ubuntu setup)
